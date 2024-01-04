@@ -1,0 +1,10 @@
+Poisson :  discrete probability distribution
+pmf : probability mass function (pmf) gives the probability of observing k events in a time period given the length of the period and the average events per time
+cdf : The Poisson cumulative distribution function lets you obtain the probability of an event occurring within a given time or space interval less than or equal to x times if on average the event occurs λ times within that interval
+rvs : generate random values from a Poisson distribution with a specific mean value and sample size
+ppf : (Poisson prob function) a discrete probability function that means the variable can only take specific values in a given list of numbers, probably infinite
+
+create and use lam variable
+anticipation good and bad days 
+calculate a year of defects
+calculate percentile of defects use ppf

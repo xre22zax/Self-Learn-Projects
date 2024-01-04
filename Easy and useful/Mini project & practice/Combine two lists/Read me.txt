@@ -1,0 +1,1 @@
+use .zip for combining two lists togather

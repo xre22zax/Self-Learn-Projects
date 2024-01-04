@@ -1,0 +1,11 @@
+Clean and categorize messy string into list
+
+calculate avrage and insurance costs for each pations
+
+for
+string replace
+splite
+strip
+uppercase
+list append
+avrage

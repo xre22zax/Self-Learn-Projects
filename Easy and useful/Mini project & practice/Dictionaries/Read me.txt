@@ -1,0 +1,31 @@
+the strongest hurricanes as rated by their wind speed 
+list of uncategorize data
+
+categorize hurricanes in dictionaries
+dictionary of hurricanes by year
+most affected areas dictionary
+max affected area
+max_mortality_cane
+hurricane by by_mortality_scale
+max_cane_damage
+hurricanes_by_damage
+
+
+
+dictionary most use
+
+
+
+
+
+-------
+
+medical insurance
+
+Create a Medical Database using dictinaries
+
+select key and values (.get)
+update dictionary
+for loop in dictionaries
+.pop for deleting
+function for auto update database dictionary
